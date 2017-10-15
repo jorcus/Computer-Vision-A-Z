@@ -1,5 +1,4 @@
 Udemy: Computer Vision A-Z
-
 ===============
 
 Website : https://www.udemy.com/computer-vision-a-z/
